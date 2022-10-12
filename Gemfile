@@ -9,7 +9,17 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+# ADDED 
+# Error:  No source of timezone data could be found.
+# https://stackoverflow.com/questions/51069616/jekyll-3-7-3-error-no-source-of-timezone-data-could-be-found
+#gem 'tzinfo', platforms: [:mingw, :mswin, :x64_mingw]
+#gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+# https://github.com/jekyll/jekyll/issues/5935
+gem 'tzinfo', '1.2.3'
+gem 'tzinfo-data', '1.2017.2'
+
 gem "github-pages", group: :jekyll_plugins
+
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -25,3 +35,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.7"

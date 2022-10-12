@@ -28,9 +28,11 @@ Find the paper [soon](arxiv).
 
 
 ## Publications
+
 {% include base_path %}
 
 {% assign sorted = site.publications | reverse %}
 {% for post in sorted %}
   {% include archive-single.html %}
 {% endfor %}
+
