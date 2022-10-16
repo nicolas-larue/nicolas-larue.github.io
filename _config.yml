@@ -83,8 +83,10 @@ author:
   bio: "Ph.D. student, Computer Science, CY Cergy Paris University, France"
   location: "Cergy, France"
   employer: "CY Cergy Paris University"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
+  pubmed:
+  #pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar:
+  #googlescholar: "http://yourfullgooglescholarurl.com"
   email: nicolas.larue@ensea.fr
   researchgate: https://www.researchgate.net/profile/Nicolas-Larue
   uri:
@@ -95,20 +97,20 @@ author:
   facebook:
   foursquare:
   #github: "nicolaslarue"
-  github: [metadata]
+  github: [nicolas-larue]
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: "towzeur"
   vine:
   weibo:
   xing:
