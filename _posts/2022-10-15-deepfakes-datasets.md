@@ -565,3 +565,24 @@ split
 
 
 <embed src="/images/deepfakes/cdn/FFIW10K_cdn.html" width=600 height=600/>
+
+# Wilddeepfake
+
+total: 7312 videos
+
+label
+- **REAL** 3805 (52.04 %)
+- **FAKE** 3507 (47.96 %)
+
+split
+- **train** 6506 (88.98 %)
+- **test** 806 (11.02 %)
+
+|   label | split   |   count |   percent |
+|--------:|:--------|--------:|----------:|
+|       1 | test    |     410 |      5.61 |
+|       1 | train   |    3097 |     42.36 |
+|       0 | test    |     396 |      5.42 |
+|       0 | train   |    3409 |     46.62 |
+
+<embed src="/images/deepfakes/cdn/Wilddeepfake_cdn.html" width=600 height=600/>
