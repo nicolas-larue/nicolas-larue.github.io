@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Larue Nicolas"
+title: "Nicolas Larue"
 title_separator: "-"
-name: &name "Larue Nicolas"
+name: &name "Nicolas Larue"
 description: &description "Ph.D. student, Computer Science, CY Cergy Paris University, France"
 url: https://nicolas-larue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Larue Nicolas"
+  name: "Nicolas Larue"
   avatar: "profile.png"
   bio: "Ph.D. student, Computer Science, CY Cergy Paris University, France"
   location: "Cergy, France"
