@@ -290,7 +290,7 @@ fold
 |--------:|:-------|--------:|----------:|
 |       0 | real   |     430 |       100 |
 
-<embed src="/images/deepfakes/cdn/vidtimit_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/vidtimit_cdn.html"  width="100%" height="100%"/>
 
 # DeepfakeTIMIT
 
@@ -312,7 +312,7 @@ fold
 |       1 | fake_HQ |     320 |     29.91 |
 |       1 | fake_LQ |     320 |     29.91 |
 
-<embed src="/images/deepfakes/cdn/DeepfakeTIMIT_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/DeepfakeTIMIT_cdn.html"  width="100%" height="100%"/>
 
 # UADFV
 
@@ -332,7 +332,7 @@ fold
 |       0 | youtube |      49 |        50 |
 |       1 | FakeAPP |      49 |        50 |
 
-<embed src="/images/deepfakes/cdn/UADFV_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/UADFV_cdn.html"  width="100%" height="100%"/>
 
 # FaceForensics++: 
 
@@ -376,7 +376,7 @@ split
 |       1 | NeuralTextures | train   |     720 |     12    |
 |       1 | NeuralTextures | val     |     140 |      2.33 |
 
-<embed src="/images/deepfakes/cdn/FaceForensics++_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/FaceForensics++_cdn.html"  width="100%" height="100%"/>
 
 # Celeb-DF-v2:
 
@@ -405,7 +405,7 @@ split
 |       1 | Celeb-synthesis | train   |    5299 |     81.16 |
 |       1 | Celeb-synthesis | test    |     340 |      5.21 |
 
-<embed src="/images/deepfakes/cdn/Celeb-DF-v2_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/Celeb-DF-v2_cdn.html"  width="100%" height="100%"/>
 
 # DFD Google
 
@@ -456,7 +456,7 @@ scenes
 | walking_down_street_outside_angry |         28 |           0.82 ||        201 |         5.86 |
 | walking_outside_cafe_disgusted    |         26 |           0.76 ||        213 |         6.21 |
 
-<embed src="/images/deepfakes/cdn/DFD_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/DFD_cdn.html"  width="100%" height="100%"/>
 
 
 # DFDC-preview:
@@ -485,7 +485,7 @@ split
 |       0 | original_videos | train   |     855 |     16.29 |
 |       0 | original_videos | test    |     276 |      5.26 |
 
-<embed src="/images/deepfakes/cdn/dfdc_preview_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/dfdc_preview_cdn.html"  width="100%" height="100%"/>
 
 # DFDC:
 
@@ -509,7 +509,7 @@ split
 |       1 | train   |  100000 | 78.03     |
 |       1 | val     |  2000   | 1.56      |
 
-<embed src="/images/deepfakes/cdn/dfdc_cdn.html"  width=600 height=600/>
+<embed src="/images/deepfakes/cdn/dfdc_cdn.html"  width="100%" height="100%"/>
 
 
 # DeeperForensics-1.0
@@ -534,7 +534,7 @@ split
 |       1 | train   |    7733 |     13    |
 |       1 | val     |    1056 |      1.78 |
 
-<embed src="/images/deepfakes/cdn/DeeperForensics-1.0_cdn.html" width=600 height=600/>
+<embed src="/images/deepfakes/cdn/DeeperForensics-1.0_cdn.html" width="100%" height="100%"/>
 
 # FFIW10K
 
@@ -564,7 +564,7 @@ split
 
 
 
-<embed src="/images/deepfakes/cdn/FFIW10K_cdn.html" width=600 height=600/>
+<embed src="/images/deepfakes/cdn/FFIW10K_cdn.html" width="100%" height="100%"/>
 
 # Wilddeepfake
 
@@ -585,4 +585,4 @@ split
 |       0 | test    |     396 |      5.42 |
 |       0 | train   |    3409 |     46.62 |
 
-<embed src="/images/deepfakes/cdn/Wilddeepfake_cdn.html" width=600 height=600/>
+<embed src="/images/deepfakes/cdn/Wilddeepfake_cdn.html" width="100%" height="100%"/>
