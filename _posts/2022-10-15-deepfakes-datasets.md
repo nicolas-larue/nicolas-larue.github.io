@@ -814,3 +814,62 @@ Acronyms:
 | Crowdsourcing | 353   | 87.59  |
 | Studio        | 50    | 12.41  |
 
+
+# CDDB
+
+without ProGAN
+
+total: 81847 videos
+label
+- **1** 40925 (50.00 %)
+- **0** 40922 (50.00 %)
+
+family
+- **non-gan** 37098 (45.33 %)
+- **gan** 34878 (42.61 %)
+- **unknown** 9871 (12.06 %)
+
+method
+- **glow** 12000 (14.66 %)
+- **stargan_gf** 12000 (14.66 %)
+- **crn** 10210 (12.47 %)
+- **imle** 10208 (12.47 %)
+- **stylegan** 9582 (11.71 %)
+- **wild** 8271 (10.11 %)
+- **gaugan** 8000 (9.77 %)
+- **deepfake** 4330 (5.29 %)
+- **biggan** 3200 (3.91 %)
+- **cyclegan** 2096 (2.56 %)
+- **whichfaceisreal** 1600 (1.95 %)
+- **san** 350 (0.43 %)
+
+
+|   label | method          |   count |   percent |
+|--------:|:----------------|--------:|----------:|
+|       0 | biggan          |    1600 |      1.95 |
+|       0 | crn             |    5105 |      6.24 |
+|       0 | cyclegan        |    1048 |      1.28 |
+|       0 | deepfake        |    2165 |      2.65 |
+|       0 | gaugan          |    4000 |      4.89 |
+|       0 | glow            |    6000 |      7.33 |
+|       0 | imle            |    5104 |      6.24 |
+|       0 | san             |     175 |      0.21 |
+|       0 | stargan_gf      |    6000 |      7.33 |
+|       0 | stylegan        |    4791 |      5.85 |
+|       0 | whichfaceisreal |     800 |      0.98 |
+|       0 | wild            |    4134 |      5.05 |
+|       1 | biggan          |    1600 |      1.95 |
+|       1 | crn             |    5105 |      6.24 |
+|       1 | cyclegan        |    1048 |      1.28 |
+|       1 | deepfake        |    2165 |      2.65 |
+|       1 | gaugan          |    4000 |      4.89 |
+|       1 | glow            |    6000 |      7.33 |
+|       1 | imle            |    5104 |      6.24 |
+|       1 | san             |     175 |      0.21 |
+|       1 | stargan_gf      |    6000 |      7.33 |
+|       1 | stylegan        |    4791 |      5.85 |
+|       1 | whichfaceisreal |     800 |      0.98 |
+|       1 | wild            |    4137 |      5.05 |
+
+<embed src="/images/deepfakes/cdn/CDDB_cdn.html" width="100%" height="100%"/>
+
