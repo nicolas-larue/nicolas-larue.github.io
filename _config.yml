@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Nicolas Larue"
 title_separator: "-"
 name: &name "Nicolas Larue"
-description: &description "Ph.D. student, Computer Science, CY Cergy Paris University, France"
+description: &description "Final-year PhD Candidate in Machine Learning — Generative AI Robustness, Model Evaluation, Self-Supervised Learning, Computer Vision"
 url: https://nicolas-larue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "nicolas-larue/nicolas-larue.github.io"
@@ -80,15 +80,16 @@ analytics:
 author:
   name: "Nicolas Larue"
   avatar: "profile.png"
-  bio: "Ph.D. student, Computer Science, CY Cergy Paris University, France"
-  location: "Cergy, France"
-  employer: "CY Cergy Paris University"
+  bio: "Final-year PhD Candidate in Machine Learning — Generative AI Robustness, Model Evaluation, Self-Supervised Learning, Computer Vision"
+  location: "Paris / Cergy, France"
+  employer: "ETIS Lab, CY Cergy Paris University / ENSEA / CNRS"
   pubmed:
   #pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=RkEN8YcAAAAJ"
   #googlescholar: "http://yourfullgooglescholarurl.com"
-  email: nicolas.larue@ensea.fr
-  researchgate: https://www.researchgate.net/profile/Nicolas-Larue
+  email: nicolas.larue.research@gmail.com
+  #researchgate: https://www.researchgate.net/profile/Nicolas-Larue
+  researchgate:
   uri:
   bitbucket:
   codepen:
@@ -97,7 +98,7 @@ author:
   facebook:
   foursquare:
   #github: "nicolaslarue"
-  github: [nicolas-larue]
+  github: "towzeur"
   google_plus:
   keybase:
   instagram:
